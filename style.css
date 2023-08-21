@@ -1,3 +1,12 @@
-h1{
-    color: blue;
+.javascript{
+    
+    color: black;
+    border: 1px solid greenyellow;
+    width: 10%;
+    text-align: center;
+    font-size: 2rem;
+}
+#comtainer{
+    display: flex;
+    justify-content: space-between;
 }
